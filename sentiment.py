@@ -1,4 +1,4 @@
-
+#Sentiment Analysis Tool
 import collections
 import matplotlib.pyplot as plt
 import string
