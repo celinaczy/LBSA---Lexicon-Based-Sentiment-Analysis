@@ -18,6 +18,6 @@ To run the programme successfully you need to have the following python librarie
 ### Analysing a File
 
 When you start the programme you will be asked to provide a file directory for the file you want to analyse.
-make sure to include the full file directory or use a file that is located in the same folder as the python file you are running. You can use the test data provided in the repository.
+Make sure to include the full file directory or use a file that is located in the same folder as the python file you are running. You can use the test data provided in the repository.
 
 Press enter and the menu will be displayed. To choose an option, press the corresponding number and press enter to execute.
