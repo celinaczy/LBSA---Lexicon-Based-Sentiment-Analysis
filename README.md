@@ -1,9 +1,11 @@
 # LBSA---Lexicon-Based-Sentiment-Analysis
 LBSA is a lexicon-rule based software for sentiment analysis that provides statistical data about the sentiment distribution within a document.
 
+### Setup
+
 To run the programme download and unzip the full master branch zip file from https://github.com/celinaczy/Sentiment-Analysis-Tool/ and open the python file using terminal, Python Shell or PyCharm. 
 
-###Requirements:
+### Requirements:
 To run the programme successfully you need to have the following python libraries:
 * collections
 * matplotlib.pyplot
